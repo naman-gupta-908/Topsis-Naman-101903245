@@ -3,7 +3,7 @@ import math
 
 
 
-class topsis:
+class find_topsis:
     # init method or constructor 
     def __init__(self, *argv):
         argv=list(argv)
@@ -147,4 +147,4 @@ class topsis:
 
  # python topsis.py data.xlsx "1,1,1,2,1" "+,+,-,+,+" 101903245-output.csv
 if __name__ == "__main__":
-    topsis("data.xslx",[1,1,2,3],["+","+","-","-"],"output.csv")
+    find_topsis("data.xslx",[1,1,2,3],["+","+","-","-"],"output.csv")
