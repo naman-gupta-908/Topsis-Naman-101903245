@@ -8,7 +8,7 @@ setup(
   author = 'Naman Gupta',                   # Type in your name
   author_email = 'guptanaman908@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/naman-gupta-908/Topsis-Naman-101903245',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/naman-gupta-908/Topsis-Naman-101903245/archive/refs/tags/1.0.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/naman-gupta-908/Topsis-Naman-101903245/archive/refs/tags/1.1.tar.gz',    # I explain this later on
   keywords = ['TOPSIS', 'WEIGHTS', 'IMPACTS','RANKS'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas'
