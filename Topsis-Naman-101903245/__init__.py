@@ -1,1 +1,1 @@
-from topsis import topsis
+import topsis
