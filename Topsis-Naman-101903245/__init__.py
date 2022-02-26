@@ -1,1 +1,2 @@
-import topsis
+from .topsis import topsis
+# topsis("gupta")
